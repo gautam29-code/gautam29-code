@@ -74,7 +74,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="http://linkedin.com/in/gautam-panda-312a8b269" target="_blank">
+  <a href="https://www.linkedin.com/in/gautampanda-python/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
