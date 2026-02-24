@@ -1,62 +1,53 @@
-# Hi 👋 I'm Gautam Panda
+<h1 align="center">Hi 👋, I'm Gautam Panda</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | Python | Django | React</h3>
 
-🚀 **Aspiring Full Stack Developer**  
-💻 Python Developer | Django | Flask | React  
-📚 Passionate about Data Structures & Algorithms  
-🎯 Goal: Become a Professional Full Stack Software Engineer  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Full+Stack+Developer;Django+%7C+Flask+%7C+React;DSA+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔹 Strong interest in Backend Development  
-- 🔹 Building Full Stack Applications using Django & React  
-- 🔹 Practicing DSA for technical interviews  
-- 🔹 Continuously learning and improving  
+
+- 💻 Full Stack Developer (Python + React)
+- 🔥 Strong in Backend Development
+- 📚 Practicing Data Structures & Algorithms
+- 🎯 Goal: Become a Professional Software Engineer
+- 💼 Open to Internship & Entry-Level Roles
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 💻 Backend
-- Python
-- Django
-- Flask
-- REST APIs
+### 🖥️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+</p>
 
-### 🎨 Frontend
-- React.js
-- JavaScript
-- HTML5
-- CSS3
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,react" />
+</p>
 
-### 🗄️ Database
-- MySQL
-- SQL
-
-### 🔧 Tools
-- Git
-- GitHub
-- VS Code
-- Virtual Environments
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 📚 Library Management System (Flask + MySQL)
-- Developed complete CRUD functionality
-- Implemented authentication system
-- Connected backend with MySQL database
-- Built admin panel for managing records
+- Developed full CRUD operations
+- Implemented user authentication
+- Integrated MySQL database
+- Built admin panel for record management
 
 ### 📊 Python DSA Practice
-- Sorting Algorithms (Bubble, Selection, Quick Sort)
-- Searching Algorithms (Linear, Binary Search)
-- Recursion & Time Complexity concepts
-
-### 🧠 Python OOP Practice
-- Inheritance, Polymorphism, Encapsulation
-- Real-world examples
+- Sorting & Searching Algorithms
+- Recursion
+- Time Complexity Concepts
 
 ### 🌐 Frontend Projects
 - Portfolio Website
@@ -65,10 +56,24 @@
 
 ---
 
-## 📫 Connect With Me
-📧 Email: gautampanda291@gmail.com  
-💼 Open to Internship & Entry-Level Full Stack Roles  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gautam29-code&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam29-code&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ Always learning. Always building.
+## 📫 Connect With Me
+
+📧 Email: gautampanda291@gmail.com  
+
+---
+
+<p align="center">
+  ⭐ Always Learning | 🚀 Always Building | 💡 Always Improving
+</p>
